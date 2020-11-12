@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on a professional certificate in Python from Google.
 - 👯 I’m looking to collaborate on Flutter projects.
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I love to take pictures as I travel around the world.
+- ⚡ Fun fact: I'm currently available for hire!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanskokx&exclude_repo=a2hackforchange,QuickReplyBar,BetterEmailHeaders&hide=c%2b%2b,perl)](https://github.com/anuraghazra/github-readme-stats)
 

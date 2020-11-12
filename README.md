@@ -18,7 +18,7 @@
 <br />
 <br />
 
-## Discover my work
+## 🔎 Discover my work
 
 [<img align="left" alt="Google Play Store" src="https://img.shields.io/badge/Google%20Play-414141?logo=google-play&logoColor=white&style=for-the-badge" />][play-store]
 [<img align="left" alt="Github" src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" />][github]
@@ -28,7 +28,7 @@
 
 ## 🚀 Tech stack
 
-### My favorite languages
+### 💕 My favorite languages
 
 [<img align="left" alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white" />](blank)
 [<img align="left" alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />](blank)
@@ -37,7 +37,7 @@
 <br />
 <br />
 
-### I've got lot of experience with
+### 👨🏻‍💻 I've got lot of experience with
 
 [<img align="left" alt="Shell Scripting" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white" />](blank)
 [<img align="left" alt="HTML" src="https://img.shields.io/badge/html-%23239120.svg?&style=for-the-badge&logo=html5&logoColor=white" />](blank)
@@ -48,7 +48,7 @@
 <br />
 <br />
 
-### Where you'll find my code running
+### 🏃🏻‍♂️ Where you'll find my code running
 
 [<img align="left" alt="Amazon AWS" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />](blank)
 [<img align="left" alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-%234285F4?logo=google-cloud&logoColor=white&style=for-the-badge" />](blank)
@@ -57,7 +57,7 @@
 <br />
 <br />
 
-### How I like to store my data
+### 🎒 How I like to store my data
 
 [<img align="left" alt="Firebase" src="https://img.shields.io/badge/firebase-%23ffca28?logo=Firebase&logoColor=black&style=for-the-badge" />](blank)
 [<img align="left" alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />](blank)
@@ -66,7 +66,7 @@
 <br />
 <br />
 
-### Other tech I use frequently
+### 🧩 Other tech I use frequently
 
 [<img align="left" alt="Gradle" src="https://img.shields.io/badge/gradle-%2302303a?logo=gradle&logoColor=white&style=for-the-badge" />](blank)
 [<img align="left" alt="Insomnia" src="https://img.shields.io/badge/insomnia-%235849BE?logo=insomnia&logoColor=white&style=for-the-badge" />](blank)

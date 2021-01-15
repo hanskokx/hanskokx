@@ -5,8 +5,6 @@
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I'm currently available for hire!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanskokx&exclude_repo=a2hackforchange,QuickReplyBar,BetterEmailHeaders&hide=c%2b%2b,perl,prolog)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 📫 How to reach me
 
 [<img align="left" alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />][gmail]

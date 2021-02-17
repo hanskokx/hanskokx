@@ -24,11 +24,11 @@
 
 ## 🚀 Tech stack
 
-### 💕 My favorite languages
+### 💕 My favorite languages and frameworks
 
 [<img align="left" alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white" />](blank)
-[<img align="left" alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />](blank)
 [<img align="left" alt="Python" src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />](blank)
+[<img align="left" alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />](blank)
 
 <br />
 <br />

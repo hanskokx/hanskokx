@@ -5,6 +5,10 @@
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I'm currently available for hire!
 
+## I'm Awesome. Support me. 💜
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G81KO8V)
+
 ## 📫 How to reach me
 
 [<img align="left" alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />][gmail]

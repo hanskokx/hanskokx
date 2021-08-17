@@ -12,6 +12,7 @@
 ## 📫 How to reach me
 
 [<img align="left" alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
+[<img align="left" alt="Matrix/Element" src="https://img.shields.io/badge/matrix-@hanskokx:matrix.org-%230DBD8B.svg?&style=for-the-badge&logo=matrix&logoColor=white" />][matrix]
 [<img align="left" alt="Discord" src="https://img.shields.io/badge/discord-hans%230042-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />][discord]
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
@@ -73,6 +74,7 @@
 
 [blank]: https://github.com/hanskokx/hanskokx/
 [gmail]: mailto:hans.d.kokx@gmail.com
+[matrix]: https://matrix.to/#/@hanskokx:matrix.org
 [discord]: https://www.discord.com/
 [linkedin]: https://www.linkedin.com/in/hanskokx
 [play-store]:https://play.google.com/store/apps/developer?id=Hans+Kokx

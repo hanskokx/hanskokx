@@ -1,6 +1,6 @@
 # Hi there, I'm Hans Kokx 👋
 
-- 🔭 I’m currently working on a professional certificate in Python from Google.
+- 🔭 I’m currently working on a Flutter project for a client.
 - 👯 I’m looking to collaborate on Flutter projects.
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I'm currently available for hire!
@@ -12,7 +12,7 @@
 ## 📫 How to reach me
 
 [<img align="left" alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
-[<img align="left" alt="Discord" src="https://img.shields.io/badge/discord-hans%238961-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />][discord]
+[<img align="left" alt="Discord" src="https://img.shields.io/badge/discord-hans%230042-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />][discord]
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
 <br />

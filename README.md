@@ -1,13 +1,22 @@
 # Hi there, I'm Hans Kokx 👋
 
-- 🔭 I’m currently working on a Flutter project for a client.
-- 👯 I’m looking to collaborate on Flutter projects.
-- 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I'm currently available for hire!
+[<img align="right" alt="Stack Overflow aka 'My boss doesn't know that I don't write my own code" src="https://stackoverflow.com/users/flair/16203410.png?theme=dark" />][stackoverflow]
 
-## I'm Awesome. Support me. 💜
+- 🔭 I’m currently working on a **Flutter** project for a client.
+- 👯 I’m looking to collaborate on **Flutter** projects.
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: I'm currently available for hire! Feel free to contact me for any **Flutter** opportunities you have!
+
+
+## Have I or my code helped you? Consider buying me a coffee! ☕
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G81KO8V)
+
+[<img width=250 src="https://ih1.redbubble.net/image.1970024892.4592/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg">][sticker]
+
+[(Sticker by Designed and sold by Digutil)][sticker]
+
+(...not sponsored)
 
 ## 📫 How to reach me
 
@@ -31,14 +40,14 @@
 
 ### 💕 My favorite languages and frameworks
 
+[<img align="left" alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />](blank)
 [<img align="left" alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white" />](blank)
 [<img align="left" alt="Python" src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />](blank)
-[<img align="left" alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />](blank)
 
 <br />
 <br />
 
-### 👨🏻‍💻 I've got lot of experience with
+### 👨🏻‍💻 I've also got lot of experience with...
 
 [<img align="left" alt="Shell Scripting" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white" />](blank)
 [<img align="left" alt="HTML" src="https://img.shields.io/badge/html-%23239120.svg?&style=for-the-badge&logo=html5&logoColor=white" />](blank)
@@ -80,3 +89,5 @@
 [play-store]:https://play.google.com/store/apps/developer?id=Hans+Kokx
 [github]: https://www.github.com/hanskokx
 [wakatime]: https://www.wakatime.com/@hanskokx
+[stackoverflow]: https://stackoverflow.com/users/16203410/hans-kokx
+[sticker]: https://www.redbubble.com/people/Digutil

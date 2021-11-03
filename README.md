@@ -20,7 +20,7 @@
 ## 🔎 Discover my work
 
 [<img align="left" alt="Google Play Store" src="https://img.shields.io/badge/Google%20Play-414141?logo=google-play&logoColor=white&style=for-the-badge" />][play-store]
-[<img align="left" alt="Github" src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" />][github]
+<!-- [<img align="left" alt="Github" src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" />][github] -->
 
 <br />
 <br />

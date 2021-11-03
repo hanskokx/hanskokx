@@ -7,17 +7,6 @@
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I'm currently available for hire! Feel free to contact me for any **Flutter** opportunities you have!
 
-
-## Have I or my code helped you? Consider buying me a coffee! ☕
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G81KO8V)
-
-[<img width=250 src="https://ih1.redbubble.net/image.1970024892.4592/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg">][sticker]
-
-[(Sticker by Designed and sold by Digutil)][sticker]
-
-(...not sponsored)
-
 ## 📫 How to reach me
 
 [<img align="left" alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />][gmail]

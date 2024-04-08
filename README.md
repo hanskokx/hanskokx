@@ -20,6 +20,15 @@
 [<img align="left" alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white" />](blank)
 
 <!--START_SECTION:waka-->
+
+```txt
+Dart        10 hrs 17 mins  ████████████████████▓░░░░   82.65 %
+Python      34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
+Other       29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
+Text        21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
+YAML        18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
+```
+
 <!--END_SECTION:waka-->
 
 [blank]: https://github.com/hanskokx/hanskokx/

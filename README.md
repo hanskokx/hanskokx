@@ -19,6 +19,9 @@
 [<img align="left" alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />](blank)
 [<img align="left" alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white" />](blank)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 [blank]: https://github.com/hanskokx/hanskokx/
 [gmail]: mailto:hans.d.kokx@gmail.com
 [linkedin]: https://www.linkedin.com/in/hanskokx

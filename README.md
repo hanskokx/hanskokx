@@ -22,7 +22,7 @@
 <br />
 <br />
 
-## 👨🏼‍💻 Stats
+## 👨🏼‍💻 Weekly Stats
 <!--START_SECTION:waka-->
 
 ```txt

@@ -17,3 +17,5 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           TIME_RANGE: all_time
           CODE_LANG: dart
+          STOP_AT_OTHER: true
+          IGNORED_LANGUAGES: YAML JSON TOML PHP

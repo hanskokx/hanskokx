@@ -8,7 +8,6 @@
 
 ## 📫 How to reach me
 
-[<img align="left" alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
 <br />
@@ -33,7 +32,6 @@ Other              586 hrs 47 mins ████░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 [blank]: https://github.com/hanskokx/hanskokx/
-[gmail]: mailto:hans.d.kokx@gmail.com
 [linkedin]: https://www.linkedin.com/in/hanskokx
 [wakatime]: https://www.wakatime.com/@hanskokx
 [stackoverflow]: https://stackoverflow.com/users/16203410/hans-kokx

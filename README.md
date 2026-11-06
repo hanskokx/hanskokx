@@ -1,9 +1,6 @@
 # Hi there, I'm Hans Kokx 👋
 
-[<img align="right" alt="Stack Overflow aka 'My boss doesn't know that I don't write my own code" src="https://stackoverflow.com/users/flair/16203410.png?theme=dark" />][stackoverflow]
-
-- 😄 Pronouns: he/him/his
-- 🌍 Current location: Stockholm, Sweden
+- 🌍 Current location: Paris, France
 - 💬 Let's connect to discuss how I can help you with your **Flutter** project!
 
 ## 📫 How to reach me
@@ -18,16 +15,7 @@
 [<img align="left" alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />](blank)
 [<img align="left" alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white" />](blank)
 
-<br />
-<br />
-
-## 👨🏼‍💻 Coding Stats
 <!--START_SECTION:waka-->
-
-```dart
-Dart                  4,080 hrs 42 mins     ██████████████████░░░░░░░   72.35 %
-Other                 738 hrs 37 mins       ███▒░░░░░░░░░░░░░░░░░░░░░   13.09 %
-```
 
 <!--END_SECTION:waka-->
 
